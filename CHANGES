@@ -1,0 +1,19 @@
+[ Change Log ]
+
+v0.2.3  (2015-07-20)
+--------------------
+- Fixed Tkinter and ttk wildcard import.
+
+v0.2.2  (2015-07-20)
+--------------------
+- Add species name length check to ensure correctly tree display
+  (shorter than 60 characters.).
+
+v0.2.1  (2015-07-20)
+--------------------
+- Add MCMCTree tree format support (e.g. 100  1\n(a, (b, c));).
+
+
+v0.1.2  (2015-07-01)
+--------------------
+- Add open file feature.
