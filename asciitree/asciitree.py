@@ -19,7 +19,7 @@ import ScrolledText as st
 import tkFileDialog
 import dendropy
 
-__version__ = 'v0.2.4'
+__version__ = 'v0.2.5'
 
 # If species name is longer than 50, the tree may not display correctly.
 # You can modify this value if you need.
