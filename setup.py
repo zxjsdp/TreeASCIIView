@@ -9,7 +9,7 @@ with open(path.join(here, 'README.md'), encoding='utf-8') as f:
 
 setup(
     name='TreeASCIIView',
-    version='1.1.4',
+    version='0.2.4',
     description=('Provide a user friendly GUI for viewing Phylogenetic trees'
                  ' in ASCII style, based on jeetsukumaran/DendroPy. '),
     author='Haofei Jin',
