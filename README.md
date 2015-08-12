@@ -5,7 +5,7 @@ based on jeetsukumaran/DendroPy.
 
 Screenshot
 ----------
-![TreeASCIIView](./data/screenshot.png)
+![TreeASCIIView](./data/screenshot2.png)
 
 Usage
 -----
