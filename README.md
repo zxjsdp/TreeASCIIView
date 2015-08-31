@@ -26,5 +26,6 @@ You can modify these configurations if you need:
 
 Compatibility
 -------------
-Python: 2 or 3
-Platforms: Windows, linux (Mac OS not fully tested).
+Python 2 & Python 3
+
+Platforms: Windows, linux, and Mac OS (not fully tested).
