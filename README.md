@@ -12,7 +12,16 @@ Usage
 
     pip install dendropy
 
-Then double click `asciitree.py`.
+Then download and double click `asciitree.py`. There will be a GUI for you.
+
+Choose `File` - `Open` to open Newick tree.
+
+You can modify these configurations if you need:
+
+1. Plot Metric (Default: depth)
+2. Display Width (Default: 100)
+3. Leaf Spacing Factor (Default: 2)
+4. Show Internal Node Label (Default: "Show Node Labels")
 
 
 Compatibility
